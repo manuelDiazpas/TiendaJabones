@@ -33,7 +33,7 @@ Se intentará poder brindar información detallada de cada jabón que se venda e
 
 Si sale a flote, podremos conseguir que el cliente no tenga dificultad en buscar el jabón más acorde a su día a día.
 
-![Alt text](images.jpg)!
+![Imagen Jabones Secundaria](images.jpg)!
 
 ## Estructura del Proyecto
 
